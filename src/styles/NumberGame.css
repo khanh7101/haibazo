@@ -1,0 +1,16 @@
+.item {
+  width: 45px;
+  height: 45px;
+  line-height: 30px;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 3s ease;
+}
+
+.item.clicked {
+  background-color: red;
+}
+
+.item.fast-transition {
+  transition: background-color 0s;
+}
