@@ -6,11 +6,11 @@ A simple number game built with React. Players click on numbers in ascending ord
 
 1. Clone the Repository
 
-   git clone https://github.com/yourusername/number-game.git
+   git clone https://github.com/khanh7101/haibazo.git
 
 2. Navigate to the Project Directory
 
-   cd number-game
+   cd haibazo
 
 3. Install Dependencies
 
@@ -20,7 +20,7 @@ A simple number game built with React. Players click on numbers in ascending ord
 
 Start the application with:
 
-npm start
+    npm start
 
 The app will open in your browser at `http://localhost:3000`.
 
